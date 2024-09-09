@@ -1,0 +1,5 @@
+CC;167613244;Juan;Rodriguez
+CC;111595895;Luis;Rodriguez
+CC;109772161;Ana;Diaz
+CC;162108442;Maria;Lopez
+CC;120974242;Pedro;Rodriguez
